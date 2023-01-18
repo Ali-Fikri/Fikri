@@ -878,6 +878,11 @@ i {
     display: block;
     background-color: var(--main-color);
     height: 30px;
+    transition: width 1s linear ;
+    -webkit-transition: width 1s linear ;
+    -moz-transition: width 1s linear ;
+    -ms-transition: width 1s linear ;
+    -o-transition: width 1s linear ;
 }
 /* End Skills */
 /* Start Work Steps */
